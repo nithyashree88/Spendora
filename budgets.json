@@ -1,0 +1,12 @@
+{
+  "monthly_total": 45000,
+  "categories": {
+    "Food": 6000,
+    "Groceries": 4000,
+    "Shopping": 6000,
+    "Travel": 2500,
+    "Entertainment": 1000,
+    "Bills": 16000,
+    "Health": 2000
+  }
+}
